@@ -1,0 +1,33 @@
+.row{
+	display: flex;
+}
+.column{
+	flex:50%;
+	margin-top: 130px;
+	margin-left: 100px;
+	font-size: 22px;
+	
+
+	
+}
+input, textarea{
+	background-color: ; 
+	margin-right: 10px;
+	padding: 10px 5px 10px 5px;
+	border:none;
+}
+button{
+	padding: 10px 15px 10px 15px;
+	background-color: #FF8747;
+	border: none;
+}
+.form{
+	margin-top: 15px;
+	line-height: 30px;
+}
+button:hover{
+   background-color: #FF5E5E;
+}
+h1{
+ font-size: 200%;
+}

@@ -1,0 +1,9 @@
+* {
+   font-family: 'Shadows Into Light', cursive;
+  
+}
+body{
+	background: linear-gradient(to right, #e67e22, #e74c3c);
+  
+  background-size: cover;
+}
